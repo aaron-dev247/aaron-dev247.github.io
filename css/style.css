@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: hsl(0, 0%, 0%);
+    --secondary-color: hsl(0, 0%, 0%);
+}
+
+body {
+    margin: 0;
+}
